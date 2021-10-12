@@ -1,0 +1,17 @@
+body
+{
+  background:darkmagenta;
+  color:white;
+  font-size:20px;
+  text-align:center;
+  margin : 150px;
+}
+button,input
+  {
+  font-size:20px;
+  text-align:center;
+  border-radius:120px;
+}
+  input{
+    width:150px;
+  }
